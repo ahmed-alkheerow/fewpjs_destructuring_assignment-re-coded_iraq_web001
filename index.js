@@ -11,7 +11,7 @@ const muppet = {
 };
 
 
-consle
+const k_muppet = {
   k_name: 'Kermit',
   k_color: 'green',
   k_album: {
